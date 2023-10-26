@@ -1,0 +1,191 @@
+13:01:16.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sanjiv_QA\Eclipse Project\Swagger_API_Store_ModuleProject\testng.xml
+
+13:01:17.018 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:01:20.062 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:01:20.080 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:01:21.343 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:01:22.546 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:01:23.797 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:01:59.347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sanjiv_QA\Eclipse Project\Swagger_API_Store_ModuleProject\testng.xml
+
+13:01:59.642 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:02:02.591 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:02:02.610 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:02:03.774 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:02:05.026 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:02:06.350 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:02:06.372 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+13:02:07.554 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+13:02:07.560 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+13:02:08.742 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+13:02:09.894 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+13:02:11.088 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+13:50:28.219 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:50:31.286 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:50:31.304 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:50:32.380 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:50:33.492 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:50:34.609 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:50:34.615 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+13:50:36.425 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+13:50:36.428 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+13:50:37.498 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+13:50:39.689 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+13:50:40.719 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+18:44:52.346 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+18:44:55.459 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+18:44:55.492 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+18:44:56.648 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+18:44:57.684 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+18:44:58.885 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+18:44:58.898 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+18:44:59.975 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+18:44:59.979 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+18:45:01.082 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+18:45:02.124 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+18:45:03.217 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+18:50:44.815 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+18:50:47.907 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+18:50:47.948 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+18:50:49.138 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+18:50:50.179 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+18:50:51.231 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+18:50:51.250 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+18:50:52.315 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+18:50:52.319 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+18:50:53.394 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+18:50:54.544 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+18:50:55.599 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:43:58.693 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:44:01.635 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:44:01.656 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:44:02.888 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:44:04.145 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:44:05.386 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:44:05.403 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:44:06.555 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:44:06.557 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:44:07.595 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:44:08.780 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:44:09.879 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:50:32.509 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:50:35.365 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:50:35.380 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:50:36.562 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:50:37.751 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:50:38.905 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:50:38.918 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:50:40.035 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:50:40.042 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:50:41.140 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:50:42.244 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:50:43.264 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:51:59.850 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:52:02.949 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:52:02.990 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:52:04.086 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:52:05.323 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:52:06.388 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:52:06.392 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:52:07.613 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:52:07.615 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:52:08.731 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:52:09.761 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:52:10.888 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+10:51:48.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\API Automation\HRMS\APIATM_HRMS\testng.xml
+
+10:51:49.005 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+10:51:52.913 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *User Created*
+10:51:52.946 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+10:51:54.140 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+10:51:55.250 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+10:51:56.421 [main] INFO  HRMS.API.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+16:37:03.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+16:37:03.807 [main] INFO  PETSTORE.API.test.StoreTest - *Start Creating User*
+16:37:07.579 [main] INFO  PETSTORE.API.test.StoreTest - *Call test_PlaceAnOrderForPet*
+16:37:07.602 [main] INFO  PETSTORE.API.test.StoreTest - *start test_FindPurchaseOrderById*
+16:37:08.747 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_DeteleOrdersById*
+16:37:09.918 [main] INFO  PETSTORE.API.test.StoreTest - * start test_InventoryDetails*
+16:37:11.045 [main] INFO  PETSTORE.API.test.StoreTest - * end test_InventoryDetails*
+16:42:55.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+16:42:55.671 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_PlaceAnOrderForPet*
+16:42:59.177 [main] INFO  PETSTORE.API.test.StoreTest - *End test_PlaceAnOrderForPet*
+16:42:59.201 [main] INFO  PETSTORE.API.test.StoreTest - *start test_FindPurchaseOrderById*
+16:43:00.321 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_DeteleOrdersById*
+16:43:01.436 [main] INFO  PETSTORE.API.test.StoreTest - * start test_InventoryDetails*
+16:43:02.545 [main] INFO  PETSTORE.API.test.StoreTest - * end test_InventoryDetails*
+16:44:18.576 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+16:44:18.964 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_PlaceAnOrderForPet*
+16:44:22.778 [main] INFO  PETSTORE.API.test.StoreTest - *End test_PlaceAnOrderForPet*
+
+16:44:22.798 [main] INFO  PETSTORE.API.test.StoreTest - *start test_FindPurchaseOrderById*
+16:44:24.000 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_DeteleOrdersById*
+16:44:25.082 [main] INFO  PETSTORE.API.test.StoreTest - * start test_InventoryDetails*
+16:44:26.284 [main] INFO  PETSTORE.API.test.StoreTest - * end test_InventoryDetails*
+
+16:55:04.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+16:55:04.425 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_PlaceAnOrderForPet*
+16:55:08.056 [main] INFO  PETSTORE.API.test.StoreTest - *End test_PlaceAnOrderForPet*
+
+16:55:08.081 [main] INFO  PETSTORE.API.test.StoreTest - *start test_FindPurchaseOrderById*
+16:55:09.247 [main] INFO  PETSTORE.API.test.StoreTest - *End test_FindPurchaseOrderById*
+
+16:55:09.257 [main] INFO  PETSTORE.API.test.StoreTest - *Start test_DeteleOrdersById*
+16:55:10.420 [main] INFO  PETSTORE.API.test.StoreTest - *End test_DeteleOrdersById*
+
+16:55:10.428 [main] INFO  PETSTORE.API.test.StoreTest - * start test_InventoryDetails*
+16:55:11.525 [main] INFO  PETSTORE.API.test.StoreTest - * end test_InventoryDetails*
+
+17:29:48.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+17:29:48.677 [main] INFO  PETSTORE.API.test.TC_Pet - *Start test_AddNewPetToStore*
+17:29:52.208 [main] INFO  PETSTORE.API.test.TC_Pet - *End test_AddNewPetToStore*
+
+17:29:52.239 [main] INFO  PETSTORE.API.test.TC_Pet - *start test_UploadPetImage*
+17:29:53.876 [main] INFO  PETSTORE.API.test.TC_Pet - *Start test_UpdatPet*
+17:29:53.914 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_FindPetByStatus*
+17:29:55.058 [main] INFO  PETSTORE.API.test.TC_Pet - * end test_FindPetByStatus*
+
+17:29:55.073 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_FindPetById*
+17:29:56.222 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_updatePetInStoreByFormData*
+17:29:57.397 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_deletePetById*
+17:37:28.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+17:37:29.090 [main] INFO  PETSTORE.API.test.TC_Pet - *Start test_UpdatPet*
+17:37:30.788 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_FindPetById*
+17:37:33.166 [main] INFO  PETSTORE.API.test.TC_Pet - * end test_FindPetById*
+
+17:37:33.170 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_deletePetById*
+17:37:34.306 [main] INFO  PETSTORE.API.test.TC_Pet - * end test_deletePetById*
+
+17:39:16.078 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+17:39:16.530 [main] INFO  PETSTORE.API.test.TC_Pet - *Start test_UpdatPet*
+17:39:18.119 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_FindPetById*
+17:39:20.166 [main] INFO  PETSTORE.API.test.TC_Pet - * start test_deletePetById*
+18:21:42.119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_PETSTORE\testng.xml
+
+18:21:42.584 [main] INFO  PETSTORE.API.test.TC_Users - *Start test_createUser*
+18:21:46.558 [main] INFO  PETSTORE.API.test.TC_Users - *End test_createUser*
+
+18:21:46.585 [main] INFO  PETSTORE.API.test.TC_Users - *start test_findUserByName*
+18:21:47.731 [main] INFO  PETSTORE.API.test.TC_Users - *Start updateUser*
+18:21:47.767 [main] INFO  PETSTORE.API.test.TC_Users - * start loginUserInSystem*
+18:21:47.821 [main] INFO  PETSTORE.API.test.TC_Users - * start test_logoutUser*
+18:21:49.472 [main] INFO  PETSTORE.API.test.TC_Users - * start test_createListOfUserWithGivenInputArray*
+18:21:50.585 [main] INFO  PETSTORE.API.test.TC_Users - * start test_deleteUserName*
