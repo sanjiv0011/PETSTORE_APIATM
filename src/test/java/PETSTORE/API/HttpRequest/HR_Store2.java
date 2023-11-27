@@ -2,14 +2,19 @@ package PETSTORE.API.HttpRequest;
 
 import static io.restassured.RestAssured.*;
 
+
 import PETSTORE.API.EndPoint.EP_Store;
 import PETSTORE.API.payload.PL_Store;
 import io.restassured.response.Response;
 
-public class HR_Store {
+
+
+public class HR_Store2 {
 
 	// PLACE AN ORDER FOR PET
 	public static Response placeAnOrderForPet(PL_Store payload) {
+		
+	        
 		Response response = given().contentType("application/json").accept("application/json").body(payload)
 
 				.when().post(EP_Store.post_placeAnOrderForPet);

@@ -3,18 +3,18 @@
 <suite name="Suite">
 	
 	<listeners>
-		<listener class-name="PETSTORE.API.utilitites.ExtentReport"/>
+		<listener class-name="PETSTORE.API.utilitites.ExtentReport2"/>
 	</listeners>
 	
   	<test thread-count="5" name="Test">
 		  
     <classes>
 	      
-	      <!--<class name="PETSTORE.API.test.StoreTest"/>-->
+	      <class name="PETSTORE.API.test.TC_Store2"/>
 	      
-	     <!-- <class name="PETSTORE.API.test.TC_Pet"/>-->
+	      <!-- <class name="PETSTORE.API.test.TC_Pet"/>-->
 	      
-	      <class name="PETSTORE.API.test.TC_Users"/>
+	      <!--<class name="PETSTORE.API.test.TC_Users"/>-->
 	      
 	     
 	     
